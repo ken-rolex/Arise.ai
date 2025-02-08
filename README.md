@@ -69,7 +69,7 @@ print(response)
 
 ## 📚 Documentation
 For complete documentation, visit [Arise.ai Docs](https://yourdocsurl.com).
-
+# After the basic model, the documentation will be ready.
 ## 🤝 Contributing
 We welcome contributions! Please check our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
@@ -77,7 +77,10 @@ We welcome contributions! Please check our [CONTRIBUTING.md](CONTRIBUTING.md) fo
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📬 Contact
-For queries and support, reach out to **arise.ai@support.com** or open an issue on GitHub.
+For queries and support, reach out to **rajan.jha114430@gmail.com** or open an issue on GitHub.
+
+
+by via Whatsapp **8860573577** only text no call.
 
 ---
 Made with ❤️ by the Arise.ai Team
