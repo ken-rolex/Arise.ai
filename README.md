@@ -96,9 +96,28 @@ Whether you're an AI researcher, developer, or enterprise user, Arise.AI gives y
 | **Edge Computing**  | ✅ Fully Supported | ❌ Not Available | ❌ Limited | ❌ Not Available |
 | **Federated Learning**  | ✅ Future Support | ❌ Not Available | ❌ Not Available | ❌ Not Available |
 
-![image](https://github.com/user-attachments/assets/37423243-4765-447f-9f2d-cac74e72c6d0)
+# Arise.AI vs Arize.ai
 
-![Screenshot 2025-02-15 173602](https://github.com/user-attachments/assets/f7b68ac7-6f92-4208-8739-1582f09db43c)
+| Comparison Point   | Arise.AI                                | Arize.ai                          |
+|-------------------|---------------------------------------|----------------------------------|
+| **AI Management Type** | Local AI Management System         | Cloud-based AI Monitoring       |
+| **Storage**       | Local storage (optional encrypted cloud backup) | Full cloud-based                |
+| **Data Privacy**  | High, data stored in the user's system | Less, cloud storage used        |
+| **Customization** | Full AI model customization & fine-tuning support | Limited customization options  |
+
+---
+
+# Arise.AI vs Other AI Management Apps
+
+| Feature                 | Arise.AI                                     | Other AI Management Apps         |
+|-------------------------|--------------------------------------------|----------------------------------|
+| **Local & Offline Support**  | ✅ Yes, full local AI storage         | ❌ Mostly cloud-based            |
+| **No Vendor Lock-in**   | ✅ Open-source and customizable           | ❌ Restricted to platform-specific models |
+| **Privacy & Security**  | ✅ User data stored locally              | ❌ Data stored on cloud servers  |
+| **Fine-Tuning & Pre-Training** | ✅ Yes, custom AI workflows supported | ❌ Limited customization         |
+| **User-Friendly Console** | ✅ Interactive AI console for ease of use | ❌ Complicated UI                |
+| **Speed & Efficiency**   | ✅ Local execution, fast processing      | ❌ Cloud dependency = Latency issues |
+
 
 
 
