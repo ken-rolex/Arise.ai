@@ -96,6 +96,26 @@ Whether you're an AI researcher, developer, or enterprise user, Arise.AI gives y
 | **Edge Computing**  | ✅ Fully Supported | ❌ Not Available | ❌ Limited | ❌ Not Available |
 | **Federated Learning**  | ✅ Future Support | ❌ Not Available | ❌ Not Available | ❌ Not Available |
 
+![image](https://github.com/user-attachments/assets/37423243-4765-447f-9f2d-cac74e72c6d0)
+
+![Screenshot 2025-02-15 173602](https://github.com/user-attachments/assets/f7b68ac7-6f92-4208-8739-1582f09db43c)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 📥 Installation Guide
 ### **Step 1: Clone the Repository**
 ```sh
