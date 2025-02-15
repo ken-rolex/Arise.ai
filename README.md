@@ -87,9 +87,9 @@ npm run dev  # Start the local development server
 We welcome **developers, AI researchers, and AI enthusiasts** to contribute to Arise.AI. Follow the **CONTRIBUTING.md** file in our repository for detailed guidelines!
 
 ## 📞 Support & Contact
-- **Email:** support@arise.ai
+- **Email:** rajan.jhaipu16073@gmail.com
 - **GitHub Issues:** [Report a bug or request a feature](https://github.com/arise-ai/arise-ai/issues)
-- **Community Discord:** Join our AI discussion group [here](https://discord.gg/ariseai)
+- **Community Whatsapp:** Join our AI discussion group [here](https://chat.whatsapp.com/GFlCRhEs4TT3iSWF70Zrpz)
 
 🔹 **Arise.AI – Bringing AI to Your Local Machine with Ultimate Control & Privacy!**
 
