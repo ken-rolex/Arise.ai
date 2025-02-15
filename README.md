@@ -10,10 +10,24 @@ Arise.AI is an advanced **AI model management platform** that enables users to *
 Most AI management platforms rely on **cloud-based computing**, which raises concerns about **privacy, high latency, internet dependency, and hidden costs**. Arise.AI is the **perfect alternative**, as it enables users to manage, train, and deploy AI models **completely offline**, ensuring **better control, security, and seamless execution**.
 
 🔐 100% Local AI Execution – No internet required, ensuring full data privacy.
+
+
+
 ⚡ Blazing-Fast Inference – Run AI models with ultra-low latency using local CPU/GPU acceleration.
+
+
+
 🛠️ Fine-Tuning & Pretraining Support – Customize AI models with your own datasets.
+
+
 📊 Real-Time AI Monitoring – Track AI performance with detailed logs and analytics.
+
+
 🏆 Cost-Effective – No hidden cloud fees; pay once and use forever.
+
+
+
+
 🔄 Seamless Model Management – Install, update, and switch between models effortlessly.
 
 
